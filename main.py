@@ -8,7 +8,7 @@ if "--help" in argv:
     print("usage: python main.py [path/to/file or path/to/folder]")
     quit()
 target = argv[1]
-keywords_file_path = "./kriterien/kriterien.txt"
+keywords_file_path = "./Kriterien/Kriterien.txt"
 with open(keywords_file_path, "r") as keywords_file: # read keywords file
     user_conditions = keywords_file.read().split("\n")
 
