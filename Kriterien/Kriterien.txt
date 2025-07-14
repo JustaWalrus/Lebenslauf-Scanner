@@ -1,0 +1,11 @@
+Name
+Wohnort
+Telefon
+E-Mail
+Staatsangehörigkeit
+Berufserfahrung =< 5 Jahre (noch nicht implementiert)
+Deutsch =< C2
+Englisch =< C1
+Schulabschluss =< Abitur
+Ausbildung
+IT-Kompetenzen (noch nicht implementiert)
