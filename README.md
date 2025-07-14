@@ -4,13 +4,13 @@ Lebenslauf-Scanner scannt Lebensläufe nach verschiedene Kriterien in der Termin
 ## Installation
 ### Windows
 ### Linux
-- git installieren
+- git installieren mit
 `python -m ensurepip --upgrade`
-- repo clonen
+- repo clonen mit
 `git clone `
-- virtual environment erstellen 
+- virtual environment erstellen mit
 `python -m venv [name]`
-- anforderungen installieren
+- anforderungen installieren mit
 `git install -r requirements.txt`
 
 ## Nutzung
