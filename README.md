@@ -7,7 +7,7 @@ Lebenslauf-Scanner scannt Lebensläufe nach verschiedene Kriterien in der Termin
 - git installieren mit
 `python -m ensurepip --upgrade`
 - repo clonen mit
-`git clone `
+`git clone https://github.com/JustaWalrus/Lebenslauf-Scanner.git`
 - virtual environment erstellen mit
 `python -m venv [name]`
 - anforderungen installieren mit
