@@ -2,16 +2,23 @@
 Lebenslauf-Scanner scannt Lebensläufe nach verschiedene Kriterien in der Terminal um den Auswahlprocess leichter zu machen.
 
 ## Installation
+Lebenslaufscanner fordert python
 ### Windows
-### Linux
-- git installieren mit
-`python -m ensurepip --upgrade`
 - repo clonen mit
 `git clone https://github.com/JustaWalrus/Lebenslauf-Scanner.git`
 - virtual environment erstellen mit
-`python -m venv [name]`
+`python -m venv [venv_name]`
 - anforderungen installieren mit
 `git install -r requirements.txt`
+- virtual environment nutzen mit `[venv_name]/Scripts/activate`
+### Linux
+- repo clonen mit
+`git clone https://github.com/JustaWalrus/Lebenslauf-Scanner.git`
+- virtual environment erstellen mit
+`python -m venv [venv_name]`
+- anforderungen installieren mit
+`git install -r requirements.txt`
+- virtual environment nutzen mit `source [venv_name]/bin/activate`
 
 ## Nutzung
 mit dem virtual environment aktiviert in die Mappe, wo der Projekt drinnen liegt
