@@ -14,7 +14,7 @@ Lebenslauf-Scanner scannt Lebensläufe nach verschiedene Kriterien in der Termin
 `git install -r requirements.txt`
 
 ## Nutzung
-mit dem virtual environment aktiviert in die Mappe, wo der Projekt drinnen liegt \n
-`python3 ./main.py [Pfad/zum/Ordner oder Pfad/zum/File]`\n
-um den scanner zu starten. In die "Beispiele" mappe ist bereits ein Lebenslaufmuster inkludiert.\n
-Die Standardkriterien befinden sich im `Keywords.txt` 
+mit dem virtual environment aktiviert in die Mappe, wo der Projekt drinnen liegt
+`python3 ./main.py [Pfad/zum/Ordner oder Pfad/zum/File]`
+um den scanner zu starten. In die "Beispiele" mappe ist bereits ein Lebenslaufmuster inkludiert.
+Die Standardkriterien befinden sich im `Kriterien/Kriterien.txt` 
