@@ -3,7 +3,7 @@ Wohnort
 Telefon
 E-Mail
 Staatsangehörigkeit
-Berufserfahrung =< 5 Jahre
+Berufserfahrung =< 5 Jahre (noch nicht implementiert
 Deutsch =< C2
 Englisch =< C1
 Schulabschluss =< Abitur
